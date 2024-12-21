@@ -1,6 +1,6 @@
 Here is the `README.md` file template based on your request:
 
-```markdown
+
 # Career Path Planning Smart Contract
 
 
