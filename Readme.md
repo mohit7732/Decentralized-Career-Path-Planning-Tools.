@@ -12,6 +12,8 @@ The **Career Path Planning** smart contract is a decentralized system built on E
 
 ## Contract Address
 0xd4B5Cf1EE2fF3c2852a697bDbAfe5384283208fB
+![image](https://github.com/user-attachments/assets/5e309b13-3589-491f-b08b-1e6d5e1d6b39)
+
 
 ## Project Vision
 The vision of **Career Path Planning** is to create an incentive-driven platform where users are motivated to set, track, and achieve their career goals. By leveraging blockchain, the contract ensures a transparent and secure method of rewarding users for their achievements. The platform envisions a world where users actively take charge of their career development, guided by a system that rewards persistence and progress.
