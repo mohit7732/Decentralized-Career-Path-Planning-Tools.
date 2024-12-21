@@ -12,7 +12,8 @@ The **Career Path Planning** smart contract is a decentralized system built on E
 
 ## Contract Address
 0xd4B5Cf1EE2fF3c2852a697bDbAfe5384283208fB
-![image](https://github.com/user-attachments/assets/48204a8c-9412-4596-b361-6cf3e9887169)
+![image](https://github.com/user-attachments/assets/deedddce-a9c9-4ab2-94dd-68c94fd1a892)
+
 
 
 ## Project Vision
